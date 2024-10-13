@@ -1,3 +1,30 @@
+![ProfilePeek](https://github.com/user-attachments/assets/68f17aaf-8cec-4b9e-8d5f-b187686f0ba1)
+
+
+# ProfilePeek
+
+ProfilePeek is a simple web app that allows users to search and view profiles of people they know. With just a name search, users can see a person's brief profile summary and their location on the map.
+
+## Features
+
+- **Profile Search**: Search for people by their names and view their detailed profiles.
+- **Profile Summary**: Get a quick summary of the person with brief information.
+- **Map Integration**: View the person's location on an interactive map.
+- **Responsive Design**: Works well on both desktop and mobile devices.
+
+## Project Structure
+
+- **Frontend**: Built using React to render the UI components and handle client-side logic.
+- **Styling**: Styled with CSS (or any framework you're using like Bootstrap or Material-UI).
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/AnkurBombarde/Bynry-Assignment.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
