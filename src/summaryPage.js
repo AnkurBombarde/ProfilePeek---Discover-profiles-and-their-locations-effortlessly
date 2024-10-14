@@ -36,30 +36,7 @@ function SummaryPage() {
 export default SummaryPage; 
 
 
-/* import React from "react";
-import { useLocation } from "react-router-dom";
-import './SummaryPage.css'; 
 
-function SummaryPage() {
-  const location = useLocation();
-  const { profile } = location.state || {};
-
-  if (!profile) {
-    return <div>No profile data available.</div>;
-  }
-
-  return (
-    <div className="summary-container">
-      <h1 className="name">{profile.name}</h1>
-      <p className="description">{profile.description}</p>
-      <div className="map-icon">
-        <img src="path/to/map-icon.png" alt="Map Icon" />
-      </div>
-    </div>
-  );
-}
-
-export default SummaryPage; */
 
 
 
