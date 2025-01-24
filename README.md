@@ -15,7 +15,7 @@ ProfilePeek is a simple web app that allows users to search and view profiles of
 ## Project Structure
 
 - **Frontend**: Built using React to render the UI components and handle client-side logic.
-- **Styling**: Styled with CSS (or any framework you're using like Bootstrap or Material-UI).
+- **Styling**: Styled with CSS
 
 ## Installation
 
